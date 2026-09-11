@@ -32,3 +32,6 @@ go.work.sum
 # .vscode
 .zed
 maelstrom/
+
+# Maelstrom test output
+store/
